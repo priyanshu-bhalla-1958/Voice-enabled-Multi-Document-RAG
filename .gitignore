@@ -179,3 +179,8 @@ chroma_db/
 *.crt
 
 *.ipynb_checkpoints
+
+# 🔐 Sensitive document storage
+storage/encrypted/
+storage/decrypted/
+storage/processed/
